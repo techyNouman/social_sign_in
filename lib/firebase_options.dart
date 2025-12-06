@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBnpCxIbEqaF6gGk_fHCbkX1sNbVxuKgbs',
-    appId: '1:615868722214:android:2efe000427ba2c7c070ae7',
-    messagingSenderId: '615868722214',
-    projectId: 'social-sign-in-7084e',
-    storageBucket: 'social-sign-in-7084e.firebasestorage.app',
+    apiKey: 'XXXXXXXXXXXXXXXXXXX',
+    appId: '1:615868722214:android:XXXXXXXXXXXXXXXXXXX',
+    messagingSenderId: '615868722214XX',
+    projectId: 'social-sign-in-XXXXX',
+    storageBucket: 'social-sign-in-XXXXX.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBzKmD8HjnKbyUku50XH-ENNkWCUmWed7E',
-    appId: '1:615868722214:ios:627129db7c5368f0070ae7',
-    messagingSenderId: '615868722214',
-    projectId: 'social-sign-in-7084e',
-    storageBucket: 'social-sign-in-7084e.firebasestorage.app',
-    iosClientId: '615868722214-0t0oahrdi8v5o6lr0amau76s3268r4c1.apps.googleusercontent.com',
+    apiKey: 'XXXXXXXXXXXXXXXXXXX',
+    appId: '1:615868722214:ios:XXXXXXXXXXXXXXXXXXX',
+    messagingSenderId: '615868722214XX',
+    projectId: 'social-sign-in-XXXXX',
+    storageBucket: 'social-sign-in-XXXXX.firebasestorage.app',
+    iosClientId: '615868722214-XXXXXXXXXXXXXXXXXXX.apps.googleusercontent.com',
     iosBundleId: 'com.example.socialSignIn',
   );
 }
