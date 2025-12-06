@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "615868722214",
+    "project_id": "social-sign-in-7084e",
+    "storage_bucket": "social-sign-in-7084e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615868722214:android:2efe000427ba2c7c070ae7",
+        "android_client_info": {
+          "package_name": "com.example.socialSignIn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615868722214-hvm7rnkp42ovpar843s3s2qti62vsir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpCxIbEqaF6gGk_fHCbkX1sNbVxuKgbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615868722214-hvm7rnkp42ovpar843s3s2qti62vsir1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615868722214-0t0oahrdi8v5o6lr0amau76s3268r4c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialSignIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
